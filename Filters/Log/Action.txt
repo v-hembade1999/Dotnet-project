@@ -1,0 +1,11 @@
+﻿
+OnActionExecuting Controller:Home Action:Index Date: 05-12-2023 17:44:03
+OnActionExecuted Controller:Home Action:Index Date: 05-12-2023 17:44:03
+OnActionExecuting Controller:Home Action:Hello Date: 05-12-2023 17:44:07
+OnActionExecuting Controller:Home Action:Hello Date: 05-12-2023 17:44:07
+OnActionExecuted Controller:Home Action:Hello Date: 05-12-2023 17:44:07
+OnActionExecuted Controller:Home Action:Hello Date: 05-12-2023 17:44:07
+OnActionExecuting Controller:Home Action:Index Date: 05-12-2023 17:44:10
+OnActionExecuted Controller:Home Action:Index Date: 05-12-2023 17:44:10
+OnActionExecuting Controller:Home Action:Privacy Date: 05-12-2023 17:44:12
+OnActionExecuted Controller:Home Action:Privacy Date: 05-12-2023 17:44:12
